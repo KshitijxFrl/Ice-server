@@ -6,6 +6,8 @@ We have an ice cream company which  has multiple outlets. Every outlet has multi
 
 ## How to install and use
 
+Colne this repository on your system
+
 Then using command line go into the folder and use docker compose up --build
 
 Make sure to create a django admin for future use-  python manage.py createsuperuser
